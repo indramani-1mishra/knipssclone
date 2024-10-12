@@ -1,2 +1,2 @@
 # knipssclone
-knipss clone by raj mishra
+knipss clone by raj mishra all resources are here
